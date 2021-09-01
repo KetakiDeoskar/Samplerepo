@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfStudentclass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <studentclass>
+    <username>sangi</username>
+    <firstname>sangi</firstname>
+    <email>sang</email>
+    <gender />
+    <state />
+    <password />
+    <lastname />
+    <course />
+    <city />
+    <country />
+  </studentclass>
+</ArrayOfStudentclass>
